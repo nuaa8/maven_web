@@ -1,0 +1,7 @@
+package com.itheima.servlet;
+
+public class MyServlet {
+    public static void main(String[] args) {
+        System.out.println("Hello,git");
+    }
+}
